@@ -162,3 +162,11 @@ console.log(x1 + y1);
 console.log(x1 + y1);
 console.log(x1 * y1);
 console.log(x1 / y1);
+
+let a1 = 10,
+  b2 = 20;
+
+console.log(a1 - b2);
+console.log(a1 + b2);
+console.log(a1 * b2);
+console.log(a1 / b2);
