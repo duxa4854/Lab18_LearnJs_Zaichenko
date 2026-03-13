@@ -154,3 +154,11 @@ console.log(obj1 === obj2);
 let arr1 = [1, 2, 3];
 let arr2 = [1, 2, 3];
 console.log(arr1 === arr2);
+
+let x1 = "10";
+let y1 = 2;
+
+console.log(x1 + y1);
+console.log(x1 + y1);
+console.log(x1 * y1);
+console.log(x1 / y1);
