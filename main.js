@@ -138,3 +138,19 @@ console.log(true + 3);
 console.log(false + 3);
 console.log(null + 3);
 console.log(undefined + 3);
+
+console.log(5 == "5");
+console.log(5 === "5");
+console.log(0 == false);
+console.log(0 === false);
+console.log(null == undefined);
+console.log(null == undefined);
+
+let obj1 = { name: "John" };
+let obj2 = { name: "John" };
+console.log(obj1 == obj2);
+console.log(obj1 === obj2);
+
+let arr1 = [1, 2, 3];
+let arr2 = [1, 2, 3];
+console.log(arr1 === arr2);
